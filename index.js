@@ -21,8 +21,3 @@ function overwriteBestCustomer() {
   function changeLeastFavoriteCustomer() {
     leastFavoriteCustomer = 'test'
   }
-//console.log(upperCaseCustomerName());
-/*
-function setBestCustomer(){
-    var bestCustomer="not bob"
-}*/
